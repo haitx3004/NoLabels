@@ -1,0 +1,9 @@
+Package: de.haitx3004.nolabels
+Name: nolabels
+Version: 2.0
+Architecture: iphoneos-arm
+Description: HIde the apps name on home screen
+Maintainer: haitx3004
+Author: haitx3004
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
